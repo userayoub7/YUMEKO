@@ -52,7 +52,6 @@
 ### Dependencies
 - **Shizuku API**: For non-rooted device support.
 - **Room Database**: For backup and logging functionality.
-- **Material Components**: For UI consistency (optional).
 
 ---
 
@@ -87,7 +86,7 @@
 
 ## Contributing
 
-We welcome contributions from the community! Whether you're a developer, designer, or tester, your help is appreciated. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
+We welcome contributions from the community! Whether you're a developer, designer, or tester, your help is appreciated. 
 
 ---
 
